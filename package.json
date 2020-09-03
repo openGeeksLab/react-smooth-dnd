@@ -48,7 +48,7 @@
     "react": "^16.3.0"
   },
   "dependencies": {
-    "smooth-dnd": "https://github.com/openGeeksLab/smooth-dnd/commits/master",
+    "smooth-dnd": "https://github.com/openGeeksLab/smooth-dnd",
     "prop-types":">=15.6.0"
   }
 }
